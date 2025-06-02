@@ -59,6 +59,6 @@ NumPy
 
 Pandas
 
-Matplotlib
+Matplotli
 
 BeautifulSoup4
